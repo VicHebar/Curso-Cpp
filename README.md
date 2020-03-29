@@ -42,6 +42,11 @@ Esta carpeta siempre etará vacía (gg lol), sin embargo es esencial, ya que en el
 
 En caso de ser necesario se incluirán archivos y/o carpetas necesarias para el tema en cuestión, en dicho caso el archivo markdown especificará su uso e importancia.
 
+## Descargar las carpetas.
+
+Hay dos maneras de mantener los archivos actualizados en tu computadora, una de ellas es registrarte en **github** e ir dando seguimiento através de la plataforma, la segunda es simplemente ir descargando las carpetas, en la parte superior derecha hay un botón verde que dice **Clone or Download** y dandole click aparece un pequeño popup con una opción que dice **Download zip**, los permitirá bajar todo el curso de una sentada, el problema será que se tendrá que bajar y reemplazar cada vez que se suba una nueva parte del curso.  
+En caso de preferir la primera opción favor de comunicarmelo para ayudarles a configurar las cosas.
+
 ## Resumen
 
 Es importante que sigan las instrucciones de los archivos Markdown, ya que en ellos se especificarán los pasos a seguir, instrucciones, y en general tod el curso, así que en resumen LEAN LOS ARCHIVOS MARKDOWN. Cualquier duda o aclaración sigo siendo el profe y la idea sigue siendo que aprendan, así que están en libertad de preguntarme.
