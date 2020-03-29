@@ -328,3 +328,4 @@ rational rational::reduce ()
   return rational(p_, q_);
 }
 ~~~
+Hasta este punto pueden encontrar el programa en cuestión en la carpeta **cp_1** con su respectivo archivo make, con las instrucciones para su compilación.
