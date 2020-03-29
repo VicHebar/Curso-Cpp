@@ -233,7 +233,7 @@ rational rational::reduce ()
   return rational(p_, q_);
 }
 ~~~
-Aquí hemos de remarcar la sintaxis con la que están escritas las definiciones, para las funciones metodo se utiliza la sintxis ```tipo_de_retorno clase_padre::nombre_del_del_metodo(valores_de_entrada)```, notese el uso del operador de acceso **::** para especificar que es un metodo de la clase rational, esto dado que se está declarando fuera de de la clase y ya que la clase no pertenece a ningun espacio de nombres es necesario usar dicho operador de acceso y por otra parte aclarar que *clase_padre* se refiere a la clase a la cual el metodo pertenece. Para la definicion de los constructores la sintaxis es similar, siendo ````clase_padre::clase_padre(parametros_del_constructor)```.  
+Aquí hemos de remarcar la sintaxis con la que están escritas las definiciones, para las funciones metodo se utiliza la sintxis ```tipo_de_retorno clase_padre::nombre_del_del_metodo(valores_de_entrada)```, notese el uso del operador de acceso **::** para especificar que es un metodo de la clase rational, esto dado que se está declarando fuera de de la clase y ya que la clase no pertenece a ningun espacio de nombres es necesario usar dicho operador de acceso y por otra parte aclarar que *clase_padre* se refiere a la clase a la cual el metodo pertenece. Para la definicion de los constructores la sintaxis es similar, siendo ```clase_padre::clase_padre(parametros_del_constructor)```.  
 Como resultado final nuestro programa quedará de la siguiente manera:  
 ~~~ c++
 #include <iostream>
