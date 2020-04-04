@@ -20,7 +20,7 @@ A continuación se explicara la lista anterior.
 
 ### Archivo .md
 
-Los archivos .md (a partir de este punto me referiré por ellos como archivos markdown) son documentos de texto que no pierden formato, es decir, se pueden abrir con cualquier editor de texto y aún así se podrán leer. Un ejemplo de lo que intento reflejar sería *Word* este software nos permite editar texto con formato en archivos .docx, sin embargo, si el día de mañana desapareciera el programa *Word* no se podría volver a ver un documento .docx de manera legible para un hmano. Para más información de markdown recomiendo la [siguiente página](https://markdown.es/sintaxis-markdown/), como prueba de lo fácil de usar, este archivo es un archivo markdown.
+Los archivos .md (a partir de este punto me referiré por ellos como archivos markdown) son documentos de texto que no pierden formato, es decir, se pueden abrir con cualquier editor de texto y aún así se podrán leer. Un ejemplo de lo que intento reflejar sería *Word* este software nos permite editar texto con formato en archivos .docx, sin embargo, si el día de mañana desapareciera el programa *Word* no se podría volver a ver un documento .docx de manera legible para un hmano. Para más información de markdown recomiendo la [siguiente página](https://markdown.es/), como prueba de lo fácil de usar, este archivo es un archivo markdown. Para poder visualizar el formato completo recomiend abrir los archivos markdown desde el mismo github, esto para poder disfrutar más de la sintaxis que se puede especificar en c++
 
 ### Archivo makefile
 
