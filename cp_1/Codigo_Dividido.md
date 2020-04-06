@@ -2,7 +2,6 @@
 
 Esta va a ser una pequeña guía sobre lo que es el codigo dividido, la idea es que ustedes puedan entender las utillidades de partir códgo en partes para mantener sus scripts más ordenados.
 
-1. 
 
 ## Prototipo implementación.
 
