@@ -24,7 +24,7 @@ Este atributo representa el dividendo del racional (p/q).
 
 ## int q
 
-    Este atributo representa el divisor del racional (p/q)
+Este atributo representa el divisor del racional (p/q)
 
 ## bool simp
 
