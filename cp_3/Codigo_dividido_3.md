@@ -5,7 +5,7 @@ Con lo visto hasta el momento hemos podido corroborar las ventajas de dividir có
 
 # Dividir codigo de clases
 
-Nuestra próxima aproximación a la división de código será a través de las clases, reiterando que la utilidad de dividir código es la ventaja de no compilar código que no se ha modificado. Retomaremos nuestro ejemplo de los números racionales, ya teniendo este código dividido dentro de un mismo archivo nuestro siguiente paso será poner este código en distintos módulos. Recordando nustro código tennemos las siguientes líneas:  
+Nuestra próxima aproximación a la división de código será a través de las clases, reiterando que la utilidad de dividir código es la ventaja de no compilar código que no se ha modificado. Retomaremos nuestro ejemplo de los números racionales, ya teniendo este código dividido dentro de un mismo archivo nuestro siguiente paso será poner este código en distintos módulos. Recordando nustro código tenemos las siguientes líneas:  
 ~~~ c++
 #include <iostream>
 
