@@ -1,7 +1,7 @@
 # Segunda parte
 
 La segunda parte sobre cómo dividir el código se presenta a continuación.  
-Hasta el momento hemos visto que los metodos, de las clases también se pueden dividir en prototipos y definiciones, sin embargo sigue sin ser muy clara la utilidad de poder hacer esto, y que el código sigue viéndose confuso y desordenado. Acontinuación veremos la utilidad de la misma.
+Hasta el momento hemos visto que los metodos de las clases también se pueden dividir en prototipos y definiciones, sin embargo sigue sin ser muy clara la utilidad de poder hacer esto, y que el código sigue viéndose confuso y desordenado. Acontinuación veremos la utilidad de la misma.
 
 # Dividir codigo en multiples archivos.
 

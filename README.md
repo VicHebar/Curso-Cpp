@@ -40,7 +40,7 @@ Esta carpeta siempre etará vacía (gg lol), sin embargo es esencial, ya que en el
 
 ### Archivos y carpetas adicionales
 
-En caso de ser necesario se incluirán archivos y/o carpetas necesarias para el tema en cuestión, en dicho caso el archivo markdown especificará su uso e importancia.
+3En caso de ser necesario se incluirán archivos y/o carpetas necesarias para el tema en cuestión, en dicho caso el archivo markdown especificará su uso e importancia.
 
 ## Descargar las carpetas.
 

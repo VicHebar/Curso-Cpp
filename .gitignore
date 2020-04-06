@@ -3,6 +3,7 @@
 *.o
 
 *.md~
+*.md#
 *.h~
 *.cpp~
 makefile~
